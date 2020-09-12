@@ -1,0 +1,14 @@
+.container {
+    text-align: center;
+}
+
+.title{
+    text-align: center;
+}
+
+.paragraph{
+    text-align: center;
+    margin: 100px;
+    border: none;
+    padding: auto;
+}
