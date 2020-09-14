@@ -1,3 +1,9 @@
+.page{
+    margin: 10px 100px 0px 100px;
+    padding: 50px 100px 0px 100px;
+    background-color: rgb(240, 238, 233);
+}
+
 .container {
     text-align: center;
 }
@@ -6,9 +12,41 @@
     text-align: center;
 }
 
-.paragraph{
+.date{
     text-align: center;
-    margin: 100px;
+}
+
+.follow{
+    box-sizing: content-box;
+    border-radius: 1px;
+    background-color: rgb(34, 113, 231);
+    color: white;
+    margin: 0px 430px;
+}
+
+.paragraph{
+    text-align: left;
+    margin: 0px 50px;
     border: none;
-    padding: auto;
+    padding: 10px 150px;
+}
+
+.DCtitle{
+    display: inline;
+}
+
+header{
+    margin: 10px;
+}
+
+.links{
+    word-spacing: 10px;
+}
+
+#toplinks{
+    float: right;
+}
+
+footer{
+    text-align: center;
 }
